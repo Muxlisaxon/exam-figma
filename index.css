@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@700&family=Work+Sans:wght@500&display=swap');
 
 body {
+    overflow:hidden;
     background: #4F464E;
     font-family: 'Oxanium', cursive;
     font-family: 'Work Sans', sans-serif;
